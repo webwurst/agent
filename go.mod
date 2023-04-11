@@ -118,7 +118,7 @@ require (
 	github.com/prometheus-operator/prometheus-operator v0.62.0
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.63.0
 	github.com/prometheus-operator/prometheus-operator/pkg/client v0.63.0
-	github.com/prometheus/blackbox_exporter v0.22.1-0.20220920154026-3446984d6a6e
+	github.com/prometheus/blackbox_exporter v0.23.1-0.20230408073629-ae8455d93d59
 	github.com/prometheus/client_golang v1.14.0
 	github.com/prometheus/client_model v0.3.0
 	github.com/prometheus/common v0.39.0
